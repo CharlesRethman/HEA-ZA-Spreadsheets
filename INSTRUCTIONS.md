@@ -4,4 +4,8 @@ In GitHub, files are stored in _repositories_ (often called "repos", for short),
 
 To obtain a complete carbon-copy of the files in this repository, simply click `download ZIP` and GitHub will send you the download of the latest version in a folder with the repository name (in this case, `hea_za_spreadsheets`).
 
+Github will not track the individual changes in Excel files. So, if a file is edited, the _entire_ file will have to be committed back to the repo, not just the changes. This is totally painful but is a shortcoming of using spreadsheets, which are a completely innapropriate tool for data storage in the 21st Century!
+
 If you want to work on the files and change them you will have to **fork** the repository to create a new _branch_. Then you **clone** the file you want to work on to your new branch (always include `za_expandabilityfactors.xlsx` in the clone) and then, if you and the owner are happy with you changes, you can do a **pull request** to _merge_ the two files together.
+
+I am busy working on some VBA to install in each spreadsheet to automaticall re-write the entire thing JSON, which is a _much_ better format. The results will look something like the JSON files in the **livelihoods** repo. While the JSON file might not at first appear as user-friendly as an Excel file does in Excel itself --I mean, who still has Excel installed on the computers anyway and can you view an Excel spreadsheet on your phone or other device?-- it will allow easy web and app development, ultimately leading to scaled-out public sharing of HEA data.
