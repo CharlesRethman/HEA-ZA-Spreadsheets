@@ -6,6 +6,6 @@
 
 # log files
 a.log
-a.log*.*
+a.log*
 
 
