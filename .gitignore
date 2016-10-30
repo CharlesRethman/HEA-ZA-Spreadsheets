@@ -1,0 +1,10 @@
+# OSX system files
+.DS_STore
+
+# Excel lock files
+~$*.xlsx, ~$*.xls
+
+# log files
+a.log, a.log*.*
+
+

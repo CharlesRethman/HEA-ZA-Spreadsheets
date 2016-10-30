@@ -1,0 +1,11 @@
+2016-05-01T08:31:31.956+0200 I CONTROL  [initandlisten] MongoDB starting : pid=8919 port=27001 dbpath=/Users/Charles/Documents/hea_baselines/south_africa/hea_za_spreadsheets/data/z1 64-bit host=Charles-MacBook.local
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten] db version v3.2.1
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten] git version: a14d55980c2cdc565d4704a7e3ad37e4e535c1b2
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten] allocator: system
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten] modules: none
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten] build environment:
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten]     distarch: x86_64
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten]     target_arch: x86_64
+2016-05-01T08:31:31.957+0200 I CONTROL  [initandlisten] options: { net: { port: 27001 }, processManagement: { fork: true }, replication: { oplogSizeMB: 50, replSet: "z" }, storage: { dbPath: "data/z1", mmapv1: { smallFiles: true } }, systemLog: { destination: "file", path: "a.log" } }
+2016-05-01T08:31:31.959+0200 I STORAGE  [initandlisten] exception in initAndListen: 29 Data directory /Users/Charles/Documents/hea_baselines/south_africa/hea_za_spreadsheets/data/z1 not found., terminating
+2016-05-01T08:31:31.959+0200 I CONTROL  [initandlisten] dbexit:  rc: 100
