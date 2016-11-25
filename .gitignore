@@ -1,11 +1,9 @@
 # OSX system files
-.DS_STore
+.DS_Store
 
 # Excel lock files
-~$*.xlsx, ~$*.xls
+~$*.xl*
 
 # log files
 a.log
 a.log*
-
-
