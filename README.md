@@ -1,5 +1,5 @@
 # HEA South Africa Baseline Storage Spreadsheets
-## Repo: `HEA-ZA-Spreadsheets`, `hea_storage_spreadsheets` on local machine
+> Repo: `HEA-ZA-Spreadsheets` on GitHub, `hea_za_spreadsheets` on local machine
 
 Collection of all South African HEA spreadsheets: Baseline Storage Spreadsheets (BSSs), Outcome Analysis Spreadsheets (OASs) and the Expandability Factor Spreadsheet (EFS).
 
